@@ -16,7 +16,7 @@ test:
 
 run:
 	echo "Запуск додатку..." >> results.txt
-	pipenv run python3 app.py >> results.txt
+	pipenv run python app.py >> results.txt
 
 deploy:
 	echo "Завантаження на гіт..."
