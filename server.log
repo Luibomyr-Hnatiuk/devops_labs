@@ -1,0 +1,7 @@
+INFO 2021-01-15 09:49:14,178 root : Сервер доступний. Час на сервері: 2021-01-15
+INFO 2021-01-15 09:49:14,178 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2021-01-15 09:49:14,178 root : Відповідь сервера містить наступні поля:
+INFO 2021-01-15 09:49:14,178 root : Ключ: date, Значення: 2021-01-15
+INFO 2021-01-15 09:49:14,178 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2021-01-15 09:49:14,178 root : Ключ: server_info, Значення: localhost
+INFO 2021-01-15 09:49:14,178 root : Ключ: client_info, Значення: {'user_agent': 'python-requests/2.24.0', 'user_ip': '127.0.0.1', 'user_host': ''}
