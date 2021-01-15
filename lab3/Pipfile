@@ -14,4 +14,4 @@ python_version = "3.8"
 
 [scripts]
 server = "python manage.py runserver"
-monitor = "python monitoring.py"
+monitoring = "python monitoring.py"
